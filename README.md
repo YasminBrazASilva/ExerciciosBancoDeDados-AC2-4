@@ -12,12 +12,12 @@ Exercícios para AC2 da matéria de Banco de Dados do 2º semestre de ADS
 * Produza o Readme do repositório remoto e tire um print da tela após o término da atividade;
 * Coloque comentários em seu código
 
-A criação do banco de dados está descrita no arquivo: [Exercicio4_1.sql](https://github.com/YasminBrazASilva/ExerciciosBancoDeDados-AC2/blob/main/Exercicio_4_1.sql)
+A criação do banco de dados está descrita no arquivo: [Exercicio4_1.sql](https://github.com/YasminBrazASilva/ExerciciosBancoDeDados-AC2-4/blob/main/Exercicio4_1.sql)
 
 
 ### ETAPA 2:
 
-A consulta de junção é feita em: [Exercicio4_2.sql](https://github.com/YasminBrazASilva/ExerciciosBancoDeDados-AC2/blob/main/Exercicio_4_2.sql)
+A consulta de junção é feita em: [Exercicio4_2.sql](https://github.com/YasminBrazASilva/ExerciciosBancoDeDados-AC2-4/blob/main/Exercicio4_2.sql)
 
 O resultado pode ser visto em: [ExercicioRelatorio4_2.csv](https://github.com/YasminBrazASilva/ExerciciosBancoDeDados-AC2-4/blob/main/ExercicioRelatorio4_2.csv)
 
