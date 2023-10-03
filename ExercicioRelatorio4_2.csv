@@ -1,0 +1,11 @@
+id,nome,data_nasc,cidade_id,id,nome,populacao
+3,"George Boole",2002-01-01,1,1,"Arraial dos Tucanos",42632
+10,"Carl Sagan",2000-11-20,1,1,"Arraial dos Tucanos",42632
+12,"Richard Feynman",1982-09-12,1,1,"Arraial dos Tucanos",42632
+2,"Alan Turing",1912-06-23,3,3,"Hill Valley",27383
+4,"Lynn Margulis",1991-08-12,3,3,"Hill Valley",27383
+7,"Claude Shannon",1982-10-15,3,3,"Hill Valley",27383
+9,"Marie Curie",2007-07-12,3,3,"Hill Valley",27383
+1,"Immanuel Kant",1724-04-22,4,4,Coruscant,19138
+6,"Ada Lovelace",1978-05-28,4,4,Coruscant,19138
+11,"Tim Berners-Lee",1973-12-05,4,4,Coruscant,19138

@@ -1,9 +1,11 @@
+-- Cria a tabela cidades
 CREATE TABLE Cidades (
 	id INT PRIMARY KEY,
     nome VARCHAR(60) NOT NULL,
     populacao INT
 );
 
+-- Cria a tabela alunos
 CREATE TABLE Alunos (
 	id INT PRIMARY KEY,
     nome VARCHAR(60) NOT NULL,
@@ -12,6 +14,7 @@ CREATE TABLE Alunos (
     FOREIGN KEY(cidade_id) REFERENCES Cidades(id)
 );
 
+-- Insere valores na tabela cidades
 INSERT INTO Cidades
 	VALUES (1, 'Arraial dos Tucanos', 42632),
 		   (2, 'Springfield', 13820),
@@ -19,6 +22,7 @@ INSERT INTO Cidades
 		   (4, 'Coruscant', 19138),
            (5, 'Minas Tirith', 31394);
 
+-- Insere valores na tabela alunos
 INSERT INTO Alunos
 	VALUES (1, 'Immanuel Kant', DATE('1724-04-22'), 4),
 		   (2, 'Alan Turing', DATE('1912-06-23'), 3),
